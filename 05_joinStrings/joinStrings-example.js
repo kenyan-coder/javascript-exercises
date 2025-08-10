@@ -7,6 +7,8 @@ const greeting = "Hello! My name is " + firstName + " " + lastName + " and I am 
 
 console.log(greeting);
 
+//Hello! My name is Carlos Stevenson and I am 18 years old.
+
 module.exports = {
   greeting,
   birthYear,
